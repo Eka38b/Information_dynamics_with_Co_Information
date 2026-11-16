@@ -1,4 +1,4 @@
-# Information Dynamics
+# Information Dynamics with Co-information 
 
 [![DOI](https://zenodo.org/badge/1159713412.svg)](https://doi.org/10.5281/zenodo.18817495)
 
